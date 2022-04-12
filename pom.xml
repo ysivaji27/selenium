@@ -12,7 +12,6 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <karate.version>0.9.5</karate.version>
-
     </properties>
 
     <!-- Start  dependencies section -->
